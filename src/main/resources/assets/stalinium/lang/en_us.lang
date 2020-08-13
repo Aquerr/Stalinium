@@ -1,0 +1,13 @@
+tile.stalinium_ore.name=Stalinium Ore
+
+#tile.ingot_block.stalinium.name=Stalinium Block
+
+item.stalinium.stalinium_pickaxe=Stalinium Pickaxe
+item.stalinium.stalinium_axe=Stalinium Axe
+item.stalinium.stalinium_hoe=Stalinium Hoe
+item.stalinium.stalinium_sword=Stalinium Sword
+item.stalinium.stalinium_shovel=Stalinium Shovel
+
+fluid.stalinium=Molten stalinium
+
+itemGroup.stalinium=Stalinium

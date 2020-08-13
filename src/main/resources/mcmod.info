@@ -1,0 +1,16 @@
+[
+{
+  "modid": "stalinium",
+  "name": "Stalinium",
+  "description": "Adds Stalinium ore, tools, machines and more.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Aquerr"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
